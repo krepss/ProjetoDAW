@@ -1,0 +1,23 @@
+.ncontainer {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.ncontainer-login{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+    background-color: #1E1E2F;
+    
+}
+.wrap-login{
+    width: 390px;
+    background-color: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    padding: 15px 55px 15px 55px;
+}
